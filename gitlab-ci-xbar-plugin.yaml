@@ -1,0 +1,7 @@
+GITLAB_ENDPOINT: "https://gitlab.com/api/v4"
+projects:
+  - name: "SKA SDP Spectral Line Imaging"
+    id: 58808652
+    branches:
+      - "main"
+      - "dhr-85-graph-scheduler-poc"
